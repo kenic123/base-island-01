@@ -1,6 +1,6 @@
  
  
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**书生大模型全链路开源开放体系笔记**
+ ## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **书生大模型全链路开源开放体系笔记**
 
  &nbsp; &nbsp; &nbsp; &nbsp;书生大模型是一种新的人工智能模型，主要用于自然语言处理和生成。它基于深度学习技术，尤其是变换器（Transformer）架构，能够处理和理解文本数据。这种模型的设计旨在提高文本生成、翻译和分析等多种语言处理任务的效率和准确性。通过大规模数据的训练，书生大模型能够捕捉到语言中的复杂模式和结构，从而生成更加自然和流畅的文本。这使得它在各类语言任务中表现出色，能够应对从日常对话到专业文献分析的广泛需求。
 
